@@ -1,7 +1,7 @@
 # nerdle
 Orignal Game: [Nerdle](https://nerdlegame.com/)
 
-The math version of the viral word game WORDLE
+Math version of the viral word game WORDLE
 
 
 ## TODO
@@ -12,7 +12,7 @@ Implement visualization
 * Generate equation database for game use (See bake.py) 
 
 ## Executing Program
-1. In your Terminal, cd into nerdle directory. 
+1. In your Terminal, cd into nerdle directory
 2. Run:
 ```
 python3 nerdle.py
