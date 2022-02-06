@@ -1,5 +1,5 @@
 # nerdle
-Orignal Game: [Nerdle](https://nerdlegame.com/)
+Original Game: [Nerdle](https://nerdlegame.com/)
 
 Math version of the viral word game WORDLE
 
