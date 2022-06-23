@@ -1,5 +1,5 @@
 # nerdle
-Original Game: [Nerdle](https://nerdlegame.com/)
+Original Game: [Nerdle](https://nerdlegame.com/)<br>
 Blog Walk-through: [How to make a database for Nerdle - Charley Yoshi](https://charleyoshi.com/post/nerdle.html)
 
 Math version of the viral word game WORDLE
