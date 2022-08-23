@@ -5,9 +5,6 @@ Blog Walk-through: [How to make a database for Nerdle - Charley Yoshi](https://c
 Math version of the viral word game WORDLE
 
 
-## TODO
-Implement visualization
-
 
 ## Feature
 * Generate equation database for game use (See bake.py) 
